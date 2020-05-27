@@ -108,6 +108,7 @@ Dünyanın bir çok yerinde yapılan CTF'leri görebileceğiniz bir websitesi: h
 Problemleri istediğiniz bir programlama dilini kullanarak çözmeniz istenen bir websitesi: https://www.hackerrank.com \
 Kolaydan zora bir çok CTF'in bulunduğu bir websitesi: https://ctflearn.com/ \
 http://pwnable.kr/
+Kali Linux Araçlarının Kurulum ve Kullanım Detayları (Türkçe) : https://www.berkeunal.com.tr/
 
 </details>
 
